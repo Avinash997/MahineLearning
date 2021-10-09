@@ -1,0 +1,3 @@
+## Synopsis
+
+This is the assignments repository for Coursera's Convolutional Neural Networks (https://www.coursera.org/learn/convolutional-neural-networks). Assignments are classified into their respective directories and you can take a complete glance by looking at the md file in each directory. In case the md file looks fuzzy because of weird text, you can check the pdf version or download the html file for better viewing. Usually html file will provide the best results for viewing. All the md, pdf and html files are snapshots of the completed Jupyter notebook. Please note this repository is only for the information/audit purposes, don't use it to copy the assignments if you're also taking the course.
